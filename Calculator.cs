@@ -47,7 +47,7 @@ public class Calculator
         }
 
         Console.WriteLine("\nPress ENTER to return to main menu...");
-        Console.ReadLine(); // pause before going back
+        Console.ReadLine();
     }
 }
 
