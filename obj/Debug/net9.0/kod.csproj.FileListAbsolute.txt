@@ -12,3 +12,4 @@ C:\Users\edvin\OneDrive\Skrivbord\kod\obj\Debug\net9.0\refint\kod.dll
 C:\Users\edvin\OneDrive\Skrivbord\kod\obj\Debug\net9.0\kod.pdb
 C:\Users\edvin\OneDrive\Skrivbord\kod\obj\Debug\net9.0\kod.genruntimeconfig.cache
 C:\Users\edvin\OneDrive\Skrivbord\kod\obj\Debug\net9.0\ref\kod.dll
+C:\Users\edvin\OneDrive\Skrivbord\kod\obj\Debug\net9.0\kod.sourcelink.json

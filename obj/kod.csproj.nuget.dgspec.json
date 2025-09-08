@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\edvin\\OneDrive\\Skrivbord\\kod\\kod.csproj": {}
+    "C:\\Users\\edvin\\onedrive\\skrivbord\\kod\\kod.csproj": {}
   },
   "projects": {
-    "C:\\Users\\edvin\\OneDrive\\Skrivbord\\kod\\kod.csproj": {
+    "C:\\Users\\edvin\\onedrive\\skrivbord\\kod\\kod.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\edvin\\OneDrive\\Skrivbord\\kod\\kod.csproj",
+        "projectUniqueName": "C:\\Users\\edvin\\onedrive\\skrivbord\\kod\\kod.csproj",
         "projectName": "kod",
-        "projectPath": "C:\\Users\\edvin\\OneDrive\\Skrivbord\\kod\\kod.csproj",
+        "projectPath": "C:\\Users\\edvin\\onedrive\\skrivbord\\kod\\kod.csproj",
         "packagesPath": "C:\\Users\\edvin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\edvin\\OneDrive\\Skrivbord\\kod\\obj\\",
+        "outputPath": "C:\\Users\\edvin\\onedrive\\skrivbord\\kod\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\edvin\\AppData\\Roaming\\NuGet\\NuGet.Config"
