@@ -1,0 +1,14 @@
+C:\Users\edvin\OneDrive\Skrivbord\kod\bin\Debug\net9.0\kod.exe
+C:\Users\edvin\OneDrive\Skrivbord\kod\bin\Debug\net9.0\kod.deps.json
+C:\Users\edvin\OneDrive\Skrivbord\kod\bin\Debug\net9.0\kod.runtimeconfig.json
+C:\Users\edvin\OneDrive\Skrivbord\kod\bin\Debug\net9.0\kod.dll
+C:\Users\edvin\OneDrive\Skrivbord\kod\bin\Debug\net9.0\kod.pdb
+C:\Users\edvin\OneDrive\Skrivbord\kod\obj\Debug\net9.0\kod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edvin\OneDrive\Skrivbord\kod\obj\Debug\net9.0\kod.AssemblyInfoInputs.cache
+C:\Users\edvin\OneDrive\Skrivbord\kod\obj\Debug\net9.0\kod.AssemblyInfo.cs
+C:\Users\edvin\OneDrive\Skrivbord\kod\obj\Debug\net9.0\kod.csproj.CoreCompileInputs.cache
+C:\Users\edvin\OneDrive\Skrivbord\kod\obj\Debug\net9.0\kod.dll
+C:\Users\edvin\OneDrive\Skrivbord\kod\obj\Debug\net9.0\refint\kod.dll
+C:\Users\edvin\OneDrive\Skrivbord\kod\obj\Debug\net9.0\kod.pdb
+C:\Users\edvin\OneDrive\Skrivbord\kod\obj\Debug\net9.0\kod.genruntimeconfig.cache
+C:\Users\edvin\OneDrive\Skrivbord\kod\obj\Debug\net9.0\ref\kod.dll
